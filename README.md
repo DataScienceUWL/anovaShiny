@@ -6,5 +6,5 @@ Draws 3 samples from normal distributions, each of size n, with the specified me
 
 ```
 require(shiny)
-runGitHub("anovaShiny,"DataScienceUWL")
+runGitHub("anovaShiny","DataScienceUWL")
 ```
